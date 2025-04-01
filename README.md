@@ -16,5 +16,4 @@ Key Features:
 ✔️ Admin Panel for Order & Product Management
 
 Disclaimer:
-This is a personal project, and unauthorized copying, distribution, or use is strictly prohibited. No part of this code or concept may be replicated without explicit permission from the creator.
-
+This is a personal project, and unauthorized copying, distribution, or use is strictly prohibited. No part of this code or concept may be replicated without explicit permission from me.
